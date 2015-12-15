@@ -1,0 +1,11 @@
+c:\users\liuyibin\documents\visual studio 2015\Projects\DistributedSystem_EX02\DistributedSystem_EX02\bin\Debug\DistributedSystem_EX02.exe.config
+c:\users\liuyibin\documents\visual studio 2015\Projects\DistributedSystem_EX02\DistributedSystem_EX02\bin\Debug\DistributedSystem_EX02.exe
+c:\users\liuyibin\documents\visual studio 2015\Projects\DistributedSystem_EX02\DistributedSystem_EX02\bin\Debug\DistributedSystem_EX02.pdb
+c:\users\liuyibin\documents\visual studio 2015\Projects\DistributedSystem_EX02\DistributedSystem_EX02\obj\Debug\DistributedSystem_EX02.csprojResolveAssemblyReference.cache
+c:\users\liuyibin\documents\visual studio 2015\Projects\DistributedSystem_EX02\DistributedSystem_EX02\obj\Debug\DistributedSystem_EX02.MainForm.resources
+c:\users\liuyibin\documents\visual studio 2015\Projects\DistributedSystem_EX02\DistributedSystem_EX02\obj\Debug\DistributedSystem_EX02.Properties.Resources.resources
+c:\users\liuyibin\documents\visual studio 2015\Projects\DistributedSystem_EX02\DistributedSystem_EX02\obj\Debug\DistributedSystem_EX02.csproj.GenerateResource.Cache
+c:\users\liuyibin\documents\visual studio 2015\Projects\DistributedSystem_EX02\DistributedSystem_EX02\obj\Debug\DistributedSystem_EX02.exe
+c:\users\liuyibin\documents\visual studio 2015\Projects\DistributedSystem_EX02\DistributedSystem_EX02\obj\Debug\DistributedSystem_EX02.pdb
+C:\Users\Liuyibin\documents\visual studio 2015\Projects\DistributedSystem_EX02\DistributedSystem_EX02\obj\Debug\DistributedSystem_EX02.EntryForm.resources
+C:\Users\Liuyibin\documents\visual studio 2015\Projects\DistributedSystem_EX02\DistributedSystem_EX02\obj\Debug\DistributedSystem_EX02.ExitForm.resources
